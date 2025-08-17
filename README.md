@@ -42,7 +42,7 @@ Supports messaging, chat bubbles, typing indicator, and responsive layouts for m
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/omnyanasr/whatsapp-clone.git
+git clone https://github.com/Omnyanasr/whatsapp-clone.git
 cd whatsapp-clone
 ```
 
