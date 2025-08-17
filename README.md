@@ -62,9 +62,18 @@ flutter run
 
 ```bash
 lib/
-├─ data/          # Mock data
-├─ models/        # Chat and message models
+├─ data/  
+│  └─  mock_data.dart        
+├─ models/ 
+│  ├─ chat_item_model.dart  
+│  ├─ message_model.dart     
+│  └─ story_model.dart
+├─ theme/         # UI screens
+│  └─ app_theme.dart
 ├─ views/         # UI screens
 │  ├─ chats_screen.dart
-│  └─ chat_screen.dart
+│  ├─ chat_screen.dart
+│  ├─ home_screen.dart
+│  └─ stories_screen.dart
+└─ main.dart
 ```
