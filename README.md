@@ -68,9 +68,9 @@ lib/
 │  ├─ chat_item_model.dart  
 │  ├─ message_model.dart     
 │  └─ story_model.dart
-├─ theme/         # UI screens
+├─ theme/         
 │  └─ app_theme.dart
-├─ views/         # UI screens
+├─ views/   
 │  ├─ chats_screen.dart
 │  ├─ chat_screen.dart
 │  ├─ home_screen.dart
